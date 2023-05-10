@@ -1,2 +1,2 @@
 # FreeCAD
-Collection of FreeCAD models
+A collection of FreeCad models I wrote while learning FreeCad. 
