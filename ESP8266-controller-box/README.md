@@ -1,0 +1,1 @@
+A simple controller box to house an esp8266 mini board. The esp8266 is flased with WLED SW used to control led light strings.

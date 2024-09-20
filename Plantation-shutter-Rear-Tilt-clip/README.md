@@ -1,0 +1,1 @@
+The tilt clip is for our house plantation shutters.  It fits our shutters.  Probably needs minor tweeks
